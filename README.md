@@ -9,6 +9,10 @@
 
 ## Use
 
+シャーメゾンはサイトで```新着メールに登録する```で希望条件を登録する
+
+D-roomは```新着メールを受け取る```で希望条件を登録する
+
 - [google/clasp](https://github.com/google/clasp) を利用しています
 
 
@@ -23,3 +27,6 @@
 3. ```clasp login```
 4. ```yarn```
 5. ```yanrn deploy```
+6. GASでtriggerの設定
+   1. shamaisonは17時(16時にメールがきます)
+   2. droomは18時(17時頃にメールがきます)
