@@ -1,8 +1,8 @@
 {
-  "name": "shamaison-imoduru",
+  "name": "gas-imoduru-newly-built-house",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "ssh://git@github.com/d8y/shamaison-imoduru.git",
+  "repository": "ssh://git@github.com/d8y/gas-imoduru-newly-built-house.git",
   "author": "d8y <16472010+d8y@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
